@@ -2,6 +2,9 @@ import { Box, Grid2, Stack } from "@mui/material";
 import React from "react";
 
 const Desktop = () => {
+
+
+
   return (
     <>
       <Stack className="bg-slate-100" direction={"row"}>
@@ -13,7 +16,7 @@ const Desktop = () => {
           />
         </Box>
         <Box>
-          <Grid2 container></Grid2>
+          <Grid2 container>sdsd</Grid2>
         </Box>
       </Stack>
     </>
